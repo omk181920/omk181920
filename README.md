@@ -3,7 +3,7 @@
 
 - 🌱 Currently, I’m focused on learning **Big Data and AI**.
 
-- 📫 How to reach me: [omar.krarti@efrei.net](mailto:krartiomar50@gmail.com)
+- 📫 How to reach me: [krartiomar50@gmail.com](mailto:krartiomar50@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
